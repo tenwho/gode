@@ -133,5 +133,5 @@ func pickThreeWithout(n int, wo int) (int, int, int) {
 		}
 	}
 	// Unreachable, unless size of n is less than 4
-	panic("Failed to pick two element")
+	panic("Failed to pick three elements")
 }
